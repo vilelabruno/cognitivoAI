@@ -1,0 +1,12 @@
+# to run
+
+1 - preencher src/twitter_credentials
+
+2-
+$ pip3 install -r req.txt
+$ cd src
+$ python3 core.py
+
+# obsevações
+1- no desenvolvimento enfrentei um problema de muitos requests para identificar a quantidade de citações no twitter e não consegui realizar mais testes
+2- é possível regular o parametro lastMinutes para aumentar a contagem de posts 
